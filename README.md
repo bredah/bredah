@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**bredah/bredah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8418599/bredah)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bredah/)
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/541705642298048514/)
 
-Here are some ideas to get you started:
+![profile views](https://komarev.com/ghpvc/?username=bredah&style=flat-square&label=PROFILE+VIEWS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Examples
+
+- [Java Testing Frameworks](https://github.com/bredah/java-test)
+
+
+### More details
+
+Description under construction, anytime new updates will be added
