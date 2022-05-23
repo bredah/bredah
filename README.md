@@ -8,8 +8,8 @@
 
 ## Examples
 
-- [Java Testing Frameworks](https://github.com/bredah/java-test)
-
+- [Java Testing](https://github.com/bredah/java-test)
+- [Python Testing](https://github.com/bredah/python-test)
 
 ### More details
 
