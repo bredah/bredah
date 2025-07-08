@@ -1,17 +1,20 @@
 ## Hi there 👋
 
-[![stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8418599/bredah)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bredah/)
-[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/541705642298048514/)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bredah&langs_count=6)
 ![profile views](https://komarev.com/ghpvc/?username=bredah&style=flat-square&label=PROFILE+VIEWS)
 
-## Examples
+### I'm Henrique Breda
 
-- [Java Testing](https://github.com/bredah/java-test)
-- [Python Testing](https://github.com/bredah/python-test)
+Software Engineer in Test with strong hands-on experience ensuring software quality through Unit, Integration, API (REST/SOAP), E2E, UI (Desktop, Web, Mobile) and UAT testing.
 
-### More details
+### Social Networks
 
-Description under construction, anytime new updates will be added
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bredah/)
+
+[![discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/541705642298048514/)
+
+[![stack overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/8418599/bredah)
+
+### Programming Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bredah&langs_count=6)
+
